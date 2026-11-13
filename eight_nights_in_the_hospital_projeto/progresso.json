@@ -1,0 +1,29 @@
+{
+  "desbloqueada": 3,
+  "estrelas": {
+    "1": 3,
+    "2": 1
+  },
+  "ranking": [
+    {
+      "noite": 2,
+      "pontos": 1700
+    },
+    {
+      "noite": 2,
+      "pontos": 1700
+    },
+    {
+      "noite": 1,
+      "pontos": 800
+    },
+    {
+      "noite": 1,
+      "pontos": 800
+    },
+    {
+      "noite": 1,
+      "pontos": 800
+    }
+  ]
+}

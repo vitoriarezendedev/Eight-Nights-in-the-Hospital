@@ -1,0 +1,13 @@
+TRILHA SONORA (já incluída, em .ogg):
+  audioMenu         -> menu, seleção de noite e ranking
+  audioCalma        -> noite sem ameaças
+  audioTensao       -> alguma entidade presente (Sombra, Espreitador na janela, Maldita)
+  audioPerseguicao  -> perigo iminente (Maldita perseguindo, Sombra perto, Espreitador prestes a entrar)
+  audioEsconderijo  -> enfermeira escondida
+  audioVencer       -> amanhecer (toca uma vez)
+  audioDerrota      -> game over (toca uma vez)
+Para trocar uma música, substitua o arquivo mantendo o nome (.ogg, .wav ou .mp3).
+Os nomes ficam em config.py (MUSICAS).
+
+EFEITOS SONOROS (opcionais; se o arquivo não existir, fica mudo). Nomes, em .wav ou .ogg:
+  cura, gerador, energia_cai, janela_bate, janela_fecha, esconder, passos
